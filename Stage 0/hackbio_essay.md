@@ -1,4 +1,4 @@
-Immune Checkpoints in Cancer
+## Immune Checkpoints in Cancer
 
 Immune checkpoints are essential regulators in our immune system that help maintain balance by preventing it from attacking the body's own healthy cells. However, in the context of cancer, tumors can exploit these checkpoints to evade detection and destruction by the immune system, allowing them to grow unchecked.
 
@@ -12,6 +12,6 @@ The study of immune checkpoints is not only about finding new treatments but als
 
 In summary, immune checkpoints play a vital role in the modern approach to cancer treatment. By targeting these pathways and discovering related biomarkers, scientists and clinicians have been able to develop therapies that empower the immune system to fight cancer more effectively, offering new hope to patients with various types of cancer. This progress represents a significant advancement in the field of oncology and continues to open new avenues for treatment, potentially improving outcomes for countless patients.
 
-References:
+### References:
 1. Buchbinder EI, Desai A. CTLA-4 and PD-1 Pathways: Similarities, Differences, and Implications of Their Inhibition. Am J Clin Oncol. 2016 Feb;39(1):98-106. doi: 10.1097/COC.0000000000000239. PMID: 26558876; PMCID: PMC4892769.
 2. Shiravand Y, Khodadadi F, Kashani SMA, Hosseini-Fard SR, Hosseini S, Sadeghirad H, Ladwa R, O'Byrne K, Kulasinghe A. Immune Checkpoint Inhibitors in Cancer Therapy. Curr Oncol. 2022 Apr 24;29(5):3044-3060. doi: 10.3390/curroncol29050247. PMID: 35621637; PMCID: PMC9139602.
